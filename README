@@ -1,6 +1,8 @@
 common_crawl_types
 
-This is an example project from an email by Ben Nagy. The list messed up the formatting a bit, so I tidied it up a bit to upload to github.
+Ben Nagy wrote the original code for this project, and posted it inline to the
+Common Crawl mailing list. I tidied it up and wrote a how-to guide:
+http://petewarden.typepad.com/searchbrowser/2012/03/twelve-steps-to-running-your-ruby-code-across-five-billion-web-pages.html
 
 Ben's original message is below.
 
